@@ -1,0 +1,13 @@
+print("Jeydin Pham\t\tSeptember 13, 2021")
+
+print("This animal is a whatever-you-want-it-to-be!")
+print("\t\t\\\t\t\t/")
+print("\t\t\t\\\t/")
+print("\t#####################")
+print("\t##\t\t-- --\t   ##")
+print("\t##\t\t  {}\t   ##")
+print("\t##\t\t\t\t   ##")
+print("\t##\t\t  <>\t   ##")
+print("\t##\t\t  ___\t   ##")
+print("\t##\t\t\t\t   ##")
+print("\t  #################  ")
